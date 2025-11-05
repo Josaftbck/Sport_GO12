@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/josafatalvarado/SportGo/backend/backend.csproj": {}
+    "C:\\Users\\ghost\\OneDrive\\Documentos\\Universidad UMG\\Sexto semestre\\BASE DE DATOS I\\proy_final_bd_I\\Sport_GO12\\backend\\backend.csproj": {}
   },
   "projects": {
-    "/Users/josafatalvarado/SportGo/backend/backend.csproj": {
+    "C:\\Users\\ghost\\OneDrive\\Documentos\\Universidad UMG\\Sexto semestre\\BASE DE DATOS I\\proy_final_bd_I\\Sport_GO12\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/josafatalvarado/SportGo/backend/backend.csproj",
+        "projectUniqueName": "C:\\Users\\ghost\\OneDrive\\Documentos\\Universidad UMG\\Sexto semestre\\BASE DE DATOS I\\proy_final_bd_I\\Sport_GO12\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "/Users/josafatalvarado/SportGo/backend/backend.csproj",
-        "packagesPath": "/Users/josafatalvarado/.nuget/packages/",
-        "outputPath": "/Users/josafatalvarado/SportGo/backend/obj/",
+        "projectPath": "C:\\Users\\ghost\\OneDrive\\Documentos\\Universidad UMG\\Sexto semestre\\BASE DE DATOS I\\proy_final_bd_I\\Sport_GO12\\backend\\backend.csproj",
+        "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ghost\\OneDrive\\Documentos\\Universidad UMG\\Sexto semestre\\BASE DE DATOS I\\proy_final_bd_I\\Sport_GO12\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/josafatalvarado/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ghost\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -56,6 +56,20 @@
               "target": "Package",
               "version": "[6.1.2, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[9.0.6, )"
@@ -84,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

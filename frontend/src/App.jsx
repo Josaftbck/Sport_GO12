@@ -14,6 +14,7 @@ import Series from "./pages/admin/Series";
 import Empleados from "./pages/admin/Empleados";
 import Usuarios from "./pages/admin/Usuarios";
 import Ventas from "./pages/admin/Ventas"; // 👈 Nuevo módulo de ventas
+import Compras from "./pages/admin/Compras"; // 👈 Nuevo módulo de ventas
 
 function App() {
   return (
@@ -54,6 +55,7 @@ function App() {
                   <Route path="/empleados" element={<Empleados />} />
                   <Route path="/sucursales" element={<Sucursales />} />
                   <Route path="/series" element={<Series />} />
+                  <Route path="/compras" element={<Compras />} />
 
                   {/* ============================================
                      🔸 VENTAS
